@@ -7,7 +7,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
 .circular{  border-radius: 50%; }
 .center-display{display: block; margin-left: auto;margin-right: auto; }
-
+.shadow{box-shadow: 0px 0px 19px 7px #acaaa9;}
 .content,.auto{margin-left:auto;margin-right:auto}.content{max-width:980px}.auto{max-width:1140px}
 .margin{margin:16px!important}.margin-top{margin-top:16px!important}.margin-bottom{margin-bottom:16px!important}
 .margin-left{margin-left:16px!important}.margin-right{margin-right:16px!important}
