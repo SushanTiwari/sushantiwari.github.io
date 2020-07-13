@@ -5,10 +5,16 @@ h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.wide{letter-spacing:4px}
 hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
+a#pdf { display: block; float: center; background: #666; color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
+a#pdf:hover { background: #222; }
+.picture {background-image: url("new.jpg");}
+.inner{border: solid #ff0000; border-width: 2px 2px 0px 2px; }
 .circular{  border-radius: 50%; }
 .center-display{display: block; margin-left: auto;margin-right: auto; }
 .right-text{text-align: right;}
+
 .shadow{box-shadow: 0px 0px 19px 7px #acaaa9;}
+.shadow-card{box-shadow: 0px 0px 11px 3px #9b0a0a;}
 .content,.auto{margin-left:auto;margin-right:auto}.content{max-width:980px}.auto{max-width:1140px}
 .margin{margin:16px!important}.margin-top{margin-top:16px!important}.margin-bottom{margin-bottom:16px!important}
 .margin-left{margin-left:16px!important}.margin-right{margin-right:16px!important}
